@@ -31,6 +31,7 @@
 
 ## Para executar o projeto foi utilizado:
 
+* ### Link do repositório: [github.com/wees-guimaraes/investment-lambdaFunction](https://github.com/wees-guimaraes/investment-lambdaFunction)
 
 ### 1 - [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) e [SAM CLI](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-sam-cli-install.html).
 
