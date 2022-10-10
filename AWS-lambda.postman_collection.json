@@ -1,0 +1,65 @@
+{
+	"info": {
+		"_postman_id": "50d786fa-66c9-4bec-b698-42fcbc17fb14",
+		"name": "AWS-lambda",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "22461893"
+	},
+	"item": [
+		{
+			"name": "FindAll-investment",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://9cv20xezm1.execute-api.us-east-1.amazonaws.com/Prod/investment",
+					"protocol": "https",
+					"host": [
+						"9cv20xezm1",
+						"execute-api",
+						"us-east-1",
+						"amazonaws",
+						"com"
+					],
+					"path": [
+						"Prod",
+						"investment"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "create-investment",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"asset_name\": \"XP Macro Plus FIC FIM\",\n    \"deadline\": 3,\n    \"profitability\": 200,\n    \"type\": \"CDB\",\n    \"value\": 3000\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://9cv20xezm1.execute-api.us-east-1.amazonaws.com/Prod/investment",
+					"protocol": "https",
+					"host": [
+						"9cv20xezm1",
+						"execute-api",
+						"us-east-1",
+						"amazonaws",
+						"com"
+					],
+					"path": [
+						"Prod",
+						"investment"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
