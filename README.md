@@ -53,3 +53,8 @@
 ### 5 - Após a criação e deploy, dê a permissão a função da sua Lambda para ter acesso ao seu DynamoDB no IAM.
 
 * #### Na pasta raiz do projeto está a collection do Postman para executar o projeto.
+
+| Github                              | Linkedin                                      | RM        |
+|-------------------------------------|-----------------------------------------------|-----------| 
+| https://github.com/paulobof         | https://www.linkedin.com/in/paulobof          | RM342789  |
+| https://github.com/wees-guimaraes   | https://www.linkedin.com/in/wesley-guimaraes  | RM343539  |
