@@ -23,8 +23,9 @@
 > Lambda Function que se integra com a API pública do banco central
 > para consultar o valor atual do CDI. Realiza o calculo e persiste as infomações em um DinamoDB.
 
+<div align="center">
 <img src="./doc/lambdaFunction.jpeg" class="center" height="300px">
-
+</div>
 
 
 
