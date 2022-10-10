@@ -1,6 +1,6 @@
 <div align="center">
-<a href="https://www.fiap.com.br" target="_blank">
-    <img src="https://www.fiap.com.br/wp-content/themes/fiap2016/images/mobile/mba/vitrine/mba-logo.png" height="100px" alt="FIAP" class="center"/>
+<a href="https://www.fiap.com.br" target="blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Fiap-logo-novo.jpg" height="100px" alt="FIAP" class="center"/>
 </a>
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
